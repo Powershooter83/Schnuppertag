@@ -1,6 +1,6 @@
 # Theorie für Aufgabe 6
 
-In Java kannst du mit Hilfe von Random eine zufällige Zahl generieren lassen. Verwende es dazu wie folgt:
+In Java kannst du mithilfe von Random eine zufällige Zahl generieren lassen. Verwende es dazu wie folgt:
 <pre>
 Random random = new Random();
 int randomZahl = random.nextInt();
